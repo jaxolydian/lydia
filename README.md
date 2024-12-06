@@ -1,18 +1,10 @@
-## Getting Started
+# lydia
+an open-source music creation tool
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## how it works
 
-## Folder Structure
+type/place your input into a text file and it will render both tab data and an image of sheet music
 
-The workspace contains two folders by default, where:
+## sharing your media
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+to share media, you currently have to join our [discord](https://discord.gg/uEqDwSjTWq)
